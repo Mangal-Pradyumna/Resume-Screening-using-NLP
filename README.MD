@@ -1,4 +1,4 @@
-# Resume Classification System
+# Resume Screening using NLP
 
 An intelligent machine learning system that automatically classifies resumes into predefined job categories using Natural Language Processing (NLP) techniques and supervised classification algorithms.
 
@@ -190,3 +190,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ⭐ **Star this repository if you found it helpful!**
 
 *Last updated: August 17, 2025*
+
